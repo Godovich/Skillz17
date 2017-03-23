@@ -9,7 +9,7 @@ Written by Eyal Godovich, Tor Hadas and Gal Bloch.
 </p>
 
 # Warning
-The code won't work/compile out of the box because we removed the most-important function ("GetBestCombinations"). 
+The code won't work/compile out of the box because we removed the most-important function ("GetBestCombinations"). <br />
 The function was removed because we don't want anyone copying our code and winning the 2018 championship by doing so.
 
 # License
