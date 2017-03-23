@@ -44,7 +44,7 @@ namespace MyBot
             Globals.Drones = new DroneGroups();
             
             // Debug initialization
-            if (Globals.Game.GetTurn() == 1) Globals.Game.Debug(" - Javier, v2.0.0");
+            if (Globals.Game.GetTurn() == 1) Globals.Game.Debug(" - Javier, v3.0.0");
 
             // Handle challenges
             Debug.Write("Opponent: " + Globals.Game.GetOpponentName());
