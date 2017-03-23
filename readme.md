@@ -6,7 +6,8 @@
 <span>
 Written by Eyal Godovich, Tor Hadas and Gal Bloch.
 
-Attention: The code won't work/compile out of the box because we removed the most-important function ("GetBestCombinations"). The function was removed because we don't want anyone copying our code and winning the 2018 championship by doing so. You may only 
+<b>Warning: The code won't work/compile out of the box because we removed the most-important function ("GetBestCombinations"). 
+The function was removed because we don't want anyone copying our code and winning the 2018 championship by doing so.
 </span>
 </p>
 
